@@ -1,4 +1,4 @@
-#ÁREAS DENTRO DO GIT
+##ÁREAS DENTRO DO GIT
 
 <b>Diretório de trabalho/arquivos (pasta):</b>
 
@@ -24,7 +24,7 @@ Nessa etapa o arquivo ainda não está no repositório, porém já está pronto 
 
 Uma vez que o arquivo está no repositório é possível consultar todas as alterações feitas nos arquivos, seja ele exclusão ou modificação de arquivos. O mesmo nos permite fazer regressões em versões anteriores ou adiantar versões que já foram feitas. 
 
-#COMANDOS GIT 
+##COMANDOS GIT 
 
 ---
 
@@ -102,7 +102,7 @@ Ex: Estou na branch main e quero trazer as alteração feitas na branch 01 é s�
 
 ---
 
-#CONCEITOS
+##CONCEITOS
 
 Branch é uma ramificação do nosso projeto, onde nos permite fazer alteração sem modificar o branch main (branch principal do projeto).
 
