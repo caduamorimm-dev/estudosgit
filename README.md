@@ -40,7 +40,7 @@ Informas todas as atualizações feitas na pasta.
 
 ---
 
-<b>git add  nome do arquivo</b>
+<b>git add + nome do arquivo</b>
 
 Adiciona o arquivo na área de preparação de forma individual 
 
@@ -52,7 +52,7 @@ Adiciona todos os arquivos da pasta na área de preparação.
 
 ---
 
-<b>git commit -m “escrever aqui o que foi feito no commit”</b>
+<b>git commit (-m “escrever aqui o que foi feito no commit”  esse atributo permite fazer o comentario diretamente do GIT)</b>
 
 Envia todos os arquivos da área de preparação no repositório.
 
