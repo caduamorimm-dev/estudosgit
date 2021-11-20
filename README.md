@@ -1,4 +1,4 @@
-##ÁREAS DENTRO DO GIT
+## ÁREAS DENTRO DO GIT
 
 <b>Diretório de trabalho/arquivos (pasta):</b>
 
