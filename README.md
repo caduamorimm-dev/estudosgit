@@ -34,7 +34,7 @@ Informas todas as atualizações feitas na pasta
 
 Adiciona o arquivo na área de preparação de forma individual 
 
-<b>git add .<b>
+<b>git add .</b>
 
 Adiciona todos os arquivos da pasta na área de preparação 
 
